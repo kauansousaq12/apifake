@@ -1,1 +1,10 @@
-
+[
+  {
+    "Nome": "cerbras",
+    "Senha": "123"
+  },
+  {
+    "Nome": "cerbras2",
+    "Senha": "1234"
+  }
+]
