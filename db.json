@@ -1,13 +1,11 @@
-[
-  "dados",
-  [
+{
+  "stats": [
     {
-      "Nome": "cerbras",
-      "Senha": "123"
-    },
-    {
-      "Nome": "cerbras2",
-      "Senha": "1234"
+      "civil": "solteiro",
+      "idade":3
     }
-  ]
-]
+  ],
+  "profile": {
+    "nome": "teste"
+  }
+}
